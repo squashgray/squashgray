@@ -2,8 +2,8 @@
 
  - 📫 How to reach me:
  </br>[LinkedIn](https://www.linkedin.com/in/joshuagraydev/)
- [Portfolio](https://joshgray.dev/)
- [Twitter](https://twitter.com/squashgray)
+ </br>[Portfolio](https://joshgray.dev/)
+ </br>[Twitter](https://twitter.com/squashgray)
 <!--
 **squashgray/squashgray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
