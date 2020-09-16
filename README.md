@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Josh</h1>
 
  - 📫 How to reach me:
- [LinkedIn](https://www.linkedin.com/in/joshuagraydev/)
+ </br>[LinkedIn](https://www.linkedin.com/in/joshuagraydev/)
  [Portfolio](https://joshgray.dev/)
  [Twitter](https://twitter.com/squashgray)
 <!--
