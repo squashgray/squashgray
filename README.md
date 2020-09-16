@@ -1,10 +1,11 @@
-<h1 align="center>Hello there 👋, I'm Josh<h1>
-- 📫 How to reach me:https://www.linkedin.com/in/joshuagraydev/
+<h1 align="center">Hello there 👋, I'm Josh</h1>
+
+
 <!--
 **squashgray/squashgray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+ - 📫 How to reach me:https://www.linkedin.com/in/joshuagraydev/
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
