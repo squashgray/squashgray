@@ -1,5 +1,4 @@
-<h1 align="center">Hello there 👋, I'm Josh</h1>
-<h1 align="center">Fullstack Developer</h1>
+<h1 align="center">Hello there 👋, I'm Josh and I'm a Fullstack Developer</h1>
 
  - 📫 How to reach me:
  </br>[LinkedIn](https://www.linkedin.com/in/joshuagraydev/)
