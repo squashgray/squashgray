@@ -19,7 +19,7 @@
 
 [LinkedIn]: https://www.linkedin.com/in/joshuagraydev/
 [Twitter]: https://twitter.com/squashgray
-[gmail]: https://gmail.com
+[gmail]: mailto:jdgray.dev@gmail.com
 <!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
