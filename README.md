@@ -13,16 +13,15 @@
 
 <br />
 <p align="left">
-<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/html5.svg" alt="HTML5 Icon"/>
-<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/css3.svg" alt="CSS3 Icon"/>
-<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/sass.svg" alt="SASS Icon"/>
-<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/javascript.svg" alt="JavaScript Icon"/>
-<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/typescript.svg" alt="Typescript Icon"/>
-<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/react.svg" alt="React Icon" />
-<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/redux.svg" alt="Redux Icon" />
-<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/angular.svg" alt="Angular Icon" />
-<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/node-dot-js.svg" alt="NodeJS Icon"/>
-<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/python.svg" alt="Python Icon"/>
+<img src="https://raw.githubusercontent.com/squashgray/squashgray/master/assets/svgIcons/html5.svg" alt="HTML5 Icon"/>
+<img src="https://raw.githubusercontent.com/squashgray/squashgray/master/assets/svgIcons/css3.svg" alt="CSS3 Icon"/>
+<img src="https://raw.githubusercontent.com/squashgray/squashgray/master/assets/svgIcons/sass.svg" alt="SASS Icon"/>
+<img src="https://raw.githubusercontent.com/squashgray/squashgray/master/assets/svgIcons/javascript.svg" alt="JavaScript Icon"/>
+<img src="https://raw.githubusercontent.com/squashgray/squashgray/master/assets/svgIcons/typescript.svg" alt="Typescript Icon"/>
+<img src="https://raw.githubusercontent.com/squashgray/squashgray/master/assets/svgIcons/react.svg" alt="React Icon" />
+<img src="https://raw.githubusercontent.com/squashgray/squashgray/master/assets/svgIcons/redux.svg" alt="Redux Icon" />
+<img src="https://raw.githubusercontent.com/squashgray/squashgray/master/assets/svgIcons/node-dot-js.svg" alt="NodeJS Icon"/>
+<img src="https://raw.githubusercontent.com/squashgray/squashgray/master/assets/svgIcons/python.svg" alt="Python Icon"/>
 </p><p align="center">
 
 ### Learning
