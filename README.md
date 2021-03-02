@@ -20,7 +20,6 @@
 <img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/typescript.svg" alt="Typescript Icon"/>
 <img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/react.svg" alt="React Icon" />
 <img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/redux.svg" alt="Redux Icon" />
-<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/angular.svg" alt="Angular Icon" />
 <img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/node-dot-js.svg" alt="NodeJS Icon"/>
 <img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/python.svg" alt="Python Icon"/>
 </p><p align="center">
