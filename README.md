@@ -1,5 +1,8 @@
-# [Joshua Gray](https://joshgray.dev/) Full Stack Developer
+# [Joshua Gray](https://joshgray.dev/) Full Stack
 
+Software Engineer with a background and knowledge of IT and Sales. Comfortable with fast paced learning, willing to pick up skills needed for the job. Enthusiastic team player who enjoys solving complex problems.
+
+<br />
 ### Let's Connect!
 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
