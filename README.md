@@ -2,7 +2,6 @@
 
 Software Engineer with a background and knowledge of IT and Sales.
 
-<br />
 
 ### Let's Connect!
 
